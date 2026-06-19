@@ -7,6 +7,7 @@ The Email Spam Detection System is a Machine Learning-based web application that
 The application is developed using Flask, providing an intuitive web interface where users can paste email content and instantly receive classification results.
 
 ---
+<img width="2305" height="1692" alt="image" src="https://github.com/user-attachments/assets/904fce74-c3b7-46dc-a262-40ebbf989857" />
 
 ## Features
 
